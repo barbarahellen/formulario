@@ -1,6 +1,8 @@
 # Formulário
 :computer: Formulário de cadastro responsivo feito com o intuito de estudar HTML5 e CSS3
-
+<div>
+:link: Você pode acessar o projeto clicando <a href = https://effervescent-sunshine-3914ad.netlify.app/>aqui</a>
+</div>
 
 <h3>Laptop</h3>
 <img src = "https://user-images.githubusercontent.com/91560661/196261751-272865fe-c2b7-4aec-9779-fd61251b93f9.png">
